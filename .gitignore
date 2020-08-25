@@ -1,0 +1,8 @@
+/log/
+/target/
+/.idea/
+/.settings/
+*.iml
+*.DS_Store
+*upload.sh
+
